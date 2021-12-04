@@ -37,6 +37,7 @@
 
 ### 🏮 Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [History of Programming](https://satyampariyar.hashnode.dev/history-of-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
