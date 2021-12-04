@@ -36,12 +36,14 @@
 <br />
 
 ### 🏮 Latest Blog Post
+<img src="{https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white}" />
 <!-- BLOG-POST-LIST:START -->
 - [History of Programming](https://satyampariyar.hashnode.dev/history-of-programming)
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
+<img src="{https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white}" />
 [![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=pariyar07&theme=algolia)](https://github.com/pariyar07/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pariyar07&layout=compact)](https://github.com/pariyar07/github-readme-stats)
