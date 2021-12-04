@@ -1,6 +1,6 @@
 ### Hi there, I'm Satyam - [website] 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://satyam-pariyar.netlify.app/)
+[![Website](https://img.shields.io/website?label=satyam-pariyar.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://satyam-pariyar.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/satyamP_js)
 
 ## I'm a Developer, Technical Blogger and Manchester United supporter!!
