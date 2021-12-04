@@ -35,6 +35,9 @@
 <br />
 <br />
 
+###🏮 Latest Blog Post
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://satyam-pariyar.netlify.app/
 [twitter]: https://twitter.com/satyamP_js
