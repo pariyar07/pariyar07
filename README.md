@@ -39,6 +39,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=pariyar07)](https://github.com/pariyar07/github-readme-stats)
+
 [website]: https://satyam-pariyar.netlify.app/
 [twitter]: https://twitter.com/satyamP_js
 [instagram]: https://www.instagram.com/_satyam_p__/
