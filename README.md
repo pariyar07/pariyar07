@@ -1,7 +1,7 @@
-### Hi there, I'm Satyam 👋 
+### Hi there, I'm Satyam 👋
 
 [![Website](https://img.shields.io/website?label=satyam-pariyar.com&style=for-the-badge&url=https%3A%2F%2Fsatyam-pariyar.com)](https://satyam-pariyar.netlify.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Satyam-MUPariyar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/satyamP_js)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Satyam-Pariyar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/satyamP_js)
 
 ## I'm a Developer, Technical Blogger and Manchester United supporter!!
 
