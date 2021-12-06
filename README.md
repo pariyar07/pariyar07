@@ -37,7 +37,6 @@
 
 ### 🏮 Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
-- [What is Web, HTTP &amp; HTTPS?](https://satyampariyar.hashnode.dev/what-is-web-http-and-https)
 - [History of Programming](https://satyampariyar.hashnode.dev/history-of-programming)
 <!-- BLOG-POST-LIST:END -->
 
