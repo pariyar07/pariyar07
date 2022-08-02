@@ -56,4 +56,4 @@
 [website]: https://satyampariyar.vercel.app/
 [twitter]: https://twitter.com/satyamP_js
 [instagram]: https://www.instagram.com/_satyam_p__/
-[linkedin]: https://www.linkedin.com/in/satyam-pariyar-761901195/
+[linkedin]: https://www.linkedin.com/in/satyam-pariyar/
