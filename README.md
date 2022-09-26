@@ -5,18 +5,16 @@
 
 ## I'm a Developer, Technical Blogger and Manchester United supporter!!
 
-- 🔭 I switched from Sales to Web Development!
+- 🔭 Frontend Web Development!
 - 🌱 I’m currently learning TypeScript
-- 👯 I’m looking for Frontend Role
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read, hit gym or kick a ball and travel.
+- ⚡ Fun fact: I love to read, hit gym, kick a ball and travel.
 
 ### Connect with me:
 
 [<img align="left" alt="satyam-pariyar.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="satyam-pariyar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="satyam-pariyar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="satyam-pariyar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -55,5 +53,4 @@
 
 [website]: https://satyampariyar.vercel.app/
 [twitter]: https://twitter.com/satyamP_js
-[instagram]: https://www.instagram.com/_satyam_p__/
 [linkedin]: https://www.linkedin.com/in/satyam-pariyar/
