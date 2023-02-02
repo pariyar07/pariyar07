@@ -7,7 +7,7 @@
 
 - 🔭 Frontend Web Development!
 - 🌱 I’m currently learning TypeScript
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read, hit gym, kick a ball and travel.
 
 ### Connect with me:
