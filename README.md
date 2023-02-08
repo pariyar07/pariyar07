@@ -1,7 +1,7 @@
 ### Hi there, I'm Satyam 👋
 
 [![Website](https://img.shields.io/website?label=satyampariyar.vercel.app/&style=for-the-badge&url=https%3A%2F%2Fsatyampariyar.vercel.app)](https://satyampariyar.vercel.app/)
-[![Linkedin Follow](https://img.shields.io/linkedin/follow/satyam-pariyar?color=1DA1F2&logo=twitter&style=for-the-badge)]([https://twitter.com/satyamP_js](https://www.linkedin.com/in/satyam-pariyar/))
+[![Linkedin](https://img.shields.io/linkedin/follow/satyam-pariyar?color=1DA1F2&logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/satyam-pariyar])
 
 ## I'm a Developer, Technical Blogger and Manchester United supporter!!
 
