@@ -2,7 +2,6 @@
 <h3 align="center">Building stunning, interactive experiences for the web</h3>
 
 <p align="left"> <a href="https://twitter.com/satyamp_js" target="blank"><img src="https://img.shields.io/twitter/follow/satyamp_js?logo=twitter&style=for-the-badge" alt="satyamp_js" /></a> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/satyam-pariyar/" target="blank"><img src="https://img.shields.io/linked-in/follow/satyamp_pariyar?logo=linked-in&style=for-the-badge" alt="satyam_pariyar" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript**
 
@@ -10,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://satyampariyar.vercel.app/)
 
-- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@SatyamP)
+- 📝 I regularly write articles on [Blog](https://hashnode.com/@SatyamP)
 
 - 💬 Ask me about **Web Development**
 
@@ -18,6 +17,7 @@
 
 - 📄 Know about my experiences [Resume](https://satyampariyar.vercel.app/static/media/Satyam's_Resume.6d1c81f875f3544a6fa9.pdf)
 
+- ⚡ Fun fact **Talk a lot about football**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/satyamp_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyamp_js" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/satyam-pariyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-pariyar" height="30" width="40" /></a>
-<a href="/https://hashnode.com/@satyamp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hashnode.com/@satyamp" height="30" width="40" /></a>
+<a href="/https://satyampariyar.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://satyampariyar.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
