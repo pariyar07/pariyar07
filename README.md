@@ -21,6 +21,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [CRUD Operations](https://satyampariyar.hashnode.dev/crud-operations)
+- [Temporal Dead Zone⛔️](https://satyampariyar.hashnode.dev/temporal-dead-zone)
+- [JavaScript Closure](https://satyampariyar.hashnode.dev/javascript-closure)
+- [What is Javascript Engine?](https://satyampariyar.hashnode.dev/what-is-javascript-engine)
+- [What is Web, HTTP &amp; HTTPS?](https://satyampariyar.hashnode.dev/what-is-web-http-and-https)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
