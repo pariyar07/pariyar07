@@ -1,11 +1,11 @@
 ### Hi there, I'm Satyam 👋
 
 [![Website](https://img.shields.io/website?label=satyampariyar.vercel.app/&style=for-the-badge&url=https%3A%2F%2Fsatyampariyar.vercel.app)](https://satyampariyar.vercel.app/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/satyamP_js?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/satyamP_js)
+[![Linkedin Follow](https://img.shields.io/linkedin/follow/satyam-pariyar?color=1DA1F2&logo=twitter&style=for-the-badge)]([https://twitter.com/satyamP_js](https://www.linkedin.com/in/satyam-pariyar/))
 
 ## I'm a Developer, Technical Blogger and Manchester United supporter!!
 
-- 🔭 Frontend Web Development!
+- 🔭 Frontend Web Developer
 - 🌱 I’m currently learning TypeScript
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read, hit gym, kick a ball and travel.
