@@ -1,57 +1,40 @@
-### Hi there, I'm Satyam 👋
+<h1 align="center">Hi 👋, I'm Satyam Pariyar</h1>
+<h3 align="center">Building stunning, interactive experiences for the web</h3>
 
-[![Website](https://img.shields.io/website?label=satyampariyar.vercel.app/&style=for-the-badge&url=https%3A%2F%2Fsatyampariyar.vercel.app)](https://satyampariyar.vercel.app/)
-[![Linkedin](https://img.shields.io/linkedin/follow/satyam-pariyar?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/satyam-pariyar)
+<p align="left"> <a href="https://twitter.com/satyamp_js" target="blank"><img src="https://img.shields.io/twitter/follow/satyamp_js?logo=twitter&style=for-the-badge" alt="satyamp_js" /></a> </p>
 
-## I'm a Developer, Technical Blogger and Manchester United supporter!!
+- 🌱 I’m currently learning **Typescript**
 
-- 🔭 Frontend Web Developer
-- 🌱 I’m currently learning TypeScript
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to read, hit gym, kick a ball and travel.
+- 👯 I’m looking to collaborate on **Open Source**
 
-### Connect with me:
+- 👨‍💻 All of my projects are available at [Portfolio](https://satyampariyar.vercel.app/)
 
-[<img align="left" alt="satyam-pariyar.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="satyam-pariyar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="satyam-pariyar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 📝 I regularly write articles on [Hashnode](https://hashnode.com/@SatyamP)
 
-<br />
+- 💬 Ask me about **Web Development**
 
-### Languages and Tools:
+- 📫 How to reach me **pariyarsatyam12@gmail.com**
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="NextJs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png" />
-<img align="left" alt="Redux Toolkit" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+- 📄 Know about my experiences [Resume](https://satyampariyar.vercel.app/static/media/Satyam's_Resume.6d1c81f875f3544a6fa9.pdf)
 
-<br />
-<br />
+- ⚡ Fun fact **Talk a lot about football**
 
-### 🏮 Latest Blog Post
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [CRUD Operations](https://satyampariyar.hashnode.dev/crud-operations)
-- [Temporal Dead Zone⛔️](https://satyampariyar.hashnode.dev/temporal-dead-zone)
-- [JavaScript Closure](https://satyampariyar.hashnode.dev/javascript-closure)
-- [What is Javascript Engine?](https://satyampariyar.hashnode.dev/what-is-javascript-engine)
-- [What is Web, HTTP &amp; HTTPS?](https://satyampariyar.hashnode.dev/what-is-web-http-and-https)
 <!-- BLOG-POST-LIST:END -->
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/satyamp_js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyamp_js" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/satyam-pariyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam-pariyar" height="30" width="40" /></a>
+<a href="/https://hashnode.com/@satyamp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://hashnode.com/@satyamp" height="30" width="40" /></a>
+</p>
 
-[![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=pariyar07&theme=algolia)](https://github.com/pariyar07/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pariyar07&layout=compact)](https://github.com/pariyar07/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pariyar07&show_icons=true&locale=en&layout=compact" alt="pariyar07" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pariyar07&show_icons=true&locale=en" alt="pariyar07" /></p>
 
-[website]: https://satyampariyar.vercel.app/
-[twitter]: https://twitter.com/satyamP_js
-[linkedin]: https://www.linkedin.com/in/satyam-pariyar/
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pariyar07&" alt="pariyar07" /></p>
