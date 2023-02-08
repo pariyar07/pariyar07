@@ -2,6 +2,7 @@
 <h3 align="center">Building stunning, interactive experiences for the web</h3>
 
 <p align="left"> <a href="https://twitter.com/satyamp_js" target="blank"><img src="https://img.shields.io/twitter/follow/satyamp_js?logo=twitter&style=for-the-badge" alt="satyamp_js" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/satyam-pariyar/" target="blank"><img src="https://img.shields.io/linkedin/follow/satyamp_pariyar?logo=linkedin&style=for-the-badge" alt="satyam_pariyar" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript**
 
@@ -17,7 +18,6 @@
 
 - 📄 Know about my experiences [Resume](https://satyampariyar.vercel.app/static/media/Satyam's_Resume.6d1c81f875f3544a6fa9.pdf)
 
-- ⚡ Fun fact **Talk a lot about football**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
