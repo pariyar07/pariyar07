@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://satyampariyar.vercel.app/)
 
-- 📝 I regularly write articles on [Blog](https://hashnode.com/@SatyamP)
+- 📝 I write articles on [Blog](https://hashnode.com/@SatyamP)
 
 - 💬 Ask me about **Web Development**
 
