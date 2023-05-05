@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 Contributing to **Open Source**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://satyampariyar.vercel.app/)
 
