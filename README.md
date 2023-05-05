@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **pariyarsatyam12@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://satyampariyar.vercel.app/static/media/Satyam's_Resume.6d1c81f875f3544a6fa9.pdf)
-
 - ⚡ Fun fact **Talk a lot about football**
 
 ### Blogs posts
