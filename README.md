@@ -2,7 +2,7 @@
 
 Senior Software Engineer building reliable, scalable systems across backend, infrastructure, and frontend.
 
-I focus on designing and shipping end-to-end products — from APIs and distributed systems to developer-friendly UIs — with an emphasis on correctness, performance, and long-term maintainability.
+I focus on designing and shipping end-to-end products - from APIs and distributed systems to developer-friendly UIs - with an emphasis on correctness, performance, and long-term maintainability.
 
 ---
 
@@ -15,8 +15,8 @@ I focus on designing and shipping end-to-end products — from APIs and distribu
 ---
 
 ### Tech I use regularly
-**Languages**: TypeScript, JavaScript  
-**Backend**: Node.js, REST, event-driven systems  
+**Languages**: TypeScript, JavaScript, Python  
+**Backend**: FastAPI, Node.js, REST, event-driven systems  
 **Frontend**: React, Next.js, Tailwind  
 **Infra**: Docker, CI/CD, cloud platforms  
 **Data**: SQL/NoSQL (used where appropriate, not dogmatically)
