@@ -1,42 +1,48 @@
 # Satyam Pariyar
 
-Senior Software Engineer building reliable, scalable systems across backend, infrastructure, and frontend.
+Full-stack with infrastructure depth — I work across backend, frontend, and
+cloud/DevOps, with a bias toward systems that are correct before they're clever.
 
-I focus on designing and shipping end-to-end products - from APIs and distributed systems to developer-friendly UIs - with an emphasis on correctness, performance, and long-term maintainability.
-
----
-
-### What I work on
-- **Backend & Systems**: APIs, service architecture, data modeling, performance tuning  
-- **Infrastructure & DevOps**: cloud deployments, CI/CD, observability, reliability  
-- **Frontend**: modern React/Next.js applications with strong UX and state discipline  
-- **AI & Automation**: integrating AI capabilities into real production workflows  
+Currently: engineering an AI SRE agent that diagnoses Kubernetes issues,
+generates remediation PRs, and earns execution authority incrementally.
+The core thesis: autonomous infra ops needs to build trust before it takes action.
 
 ---
 
-### Tech I use regularly
-**Languages**: TypeScript, JavaScript, Python  
-**Backend**: FastAPI, Node.js, REST, event-driven systems  
-**Frontend**: React, Next.js, Tailwind  
-**Infra**: Docker, CI/CD, cloud platforms  
-**Data**: SQL/NoSQL (used where appropriate, not dogmatically)
+### What I'm working on
 
-(Tools change. Principles don’t.)
+**AI SRE** — Autonomous Kubernetes operations. Focused on the human-AI
+handoff problem in high-stakes infrastructure.
+
+**Ariadne** — Open source skill package for building Obsidian vaults that
+AI agents can navigate, maintain, and operate reliably. Scope inheritance
+model + deterministic validator.  
+→ [github.com/pariyar07/ariadne](https://github.com/pariyar07/ariadne)
+
+**Signal Theory** — Writing and video about how software gets built and
+what it actually teaches.
+
+---
+
+### How I work
+
+Full-stack with infrastructure depth — I work across backend, frontend, and
+cloud/DevOps, with a bias toward systems that are correct before they're clever.
+I cover the full delivery surface: APIs, distributed systems, CI/CD,
+observability, and cloud infra.
 
 ---
 
 ### Writing
-I write occasionally about fundamentals, not trends:  
-👉 https://satyampariyar.hashnode.dev
+
+Essays on fundamentals, systems thinking, and what building software
+actually teaches you.  
+→ [satyampariyar.com](https://satyampariyar.com)
 
 ---
 
-### Selected links
-- Website: https://satyampariyar.com  
-- GitHub: https://github.com/pariyar07  
-- LinkedIn: https://www.linkedin.com/in/satyam-pariyar  
+### Elsewhere
 
----
-
-### Contact
-Email: hello@satyampariyar.com
+[X](https://x.com/SPariyar07) ·
+[LinkedIn](https://www.linkedin.com/in/satyam-pariyar) ·
+[hello@satyampariyar.com](mailto:hello@satyampariyar.com)
