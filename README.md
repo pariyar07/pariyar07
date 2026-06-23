@@ -19,6 +19,11 @@ AI agents can navigate, maintain, and operate reliably. Scope inheritance
 model + deterministic validator.  
 → [github.com/pariyar07/ariadne](https://github.com/pariyar07/ariadne)
 
+**Kybernetes** — Runtime-adaptive control plane for agentic work: durable
+goals, feedback loops, adaptive coordination, and safer long-running agent
+execution.  
+→ [github.com/pariyar07/kybernetes](https://github.com/pariyar07/kybernetes)
+
 **Signal Theory** — Writing and video about how software gets built and
 what it actually teaches.
 
