@@ -20,7 +20,6 @@ handoff problem in high-stakes infrastructure.
 human-owned Markdown vaults. It gives AI agents reliable routes, bounded write
 authority, source-backed knowledge workflows, and deterministic validation
 without owning execution or orchestration.
-
 → [github.com/pariyar07/ariadne](https://github.com/pariyar07/ariadne)
 
 **Kybernetes:** Runtime-adaptive control plane for agentic work: durable
