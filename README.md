@@ -30,9 +30,6 @@ evidence, gaps, and conflicts inspectable without confusing advice with
 enforcement.  
 → [github.com/pariyar07/architekton](https://github.com/pariyar07/architekton)
 
-**Signal Theory** — Writing and video about how software gets built and
-what it actually teaches.
-
 ---
 
 ### How I work
