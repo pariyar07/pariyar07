@@ -22,10 +22,10 @@ authority, source-backed knowledge workflows, and deterministic validation
 without owning execution or orchestration.<br>
 → [github.com/pariyar07/ariadne](https://github.com/pariyar07/ariadne)
 
-**Kybernetes:** Runtime-adaptive control plane for agentic work: durable
-goals, feedback loops, adaptive coordination, and safer long-running agent
-execution.  
-→ [github.com/pariyar07/kybernetes](https://github.com/pariyar07/kybernetes)
+**Kybernetes:** Open-source, runtime-adaptive steering layer and portable
+control contract for hard agentic work. It helps agents hold goals, choose
+proportionate control, preserve durable state, bound delegation, verify
+completion, and recover across turns and runtimes.<br>→ [github.com/pariyar07/kybernetes](https://github.com/pariyar07/kybernetes)
 
 **Architekton:** Open source system for helping repositories establish,
 maintain, apply, and audit reviewable engineering practice. It makes guidance,
