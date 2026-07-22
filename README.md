@@ -2,6 +2,8 @@
 
 Full-stack with infrastructure depth — I work across backend, frontend, and
 cloud/DevOps, with a bias toward systems that are correct before they're clever.
+I cover the full delivery surface: APIs, distributed systems, CI/CD, observability, 
+and cloud infra.
 
 Currently: engineering an AI SRE agent that diagnoses Kubernetes issues,
 generates remediation PRs, and earns execution authority incrementally.
@@ -29,15 +31,6 @@ maintain, apply, and audit reviewable engineering practice. It makes guidance,
 evidence, gaps, and conflicts inspectable without confusing advice with
 enforcement.  
 → [github.com/pariyar07/architekton](https://github.com/pariyar07/architekton)
-
----
-
-### How I work
-
-Full-stack with infrastructure depth — I work across backend, frontend, and
-cloud/DevOps, with a bias toward systems that are correct before they're clever.
-I cover the full delivery surface: APIs, distributed systems, CI/CD,
-observability, and cloud infra.
 
 ---
 
