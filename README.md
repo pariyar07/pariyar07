@@ -24,6 +24,12 @@ goals, feedback loops, adaptive coordination, and safer long-running agent
 execution.  
 → [github.com/pariyar07/kybernetes](https://github.com/pariyar07/kybernetes)
 
+**Architekton** — Open source system for helping repositories establish,
+maintain, apply, and audit reviewable engineering practice. It makes guidance,
+evidence, gaps, and conflicts inspectable without confusing advice with
+enforcement.  
+→ [github.com/pariyar07/architekton](https://github.com/pariyar07/architekton)
+
 **Signal Theory** — Writing and video about how software gets built and
 what it actually teaches.
 
